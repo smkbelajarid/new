@@ -6,7 +6,7 @@
 Sumber : https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
 <br>
 
-[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Finstagram%2Finstagram_PNG9.png&f=1&nofb=1" alt="ig" width="30px">](https://www.instagram.com/sandhikagalih/)sandhikagalih
+sandhikagalih [<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Finstagram%2Finstagram_PNG9.png&f=1&nofb=1" alt="ig" width="30px">](https://www.instagram.com/sandhikagalih/)
 
 <br>
 
