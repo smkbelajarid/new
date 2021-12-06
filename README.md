@@ -5,12 +5,8 @@
 
 Sumber : https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
 <br>
+
+[<img src="img/instagram.png" alt="ig" width="30px">](https://www.instagram.com/sandhikagalih/) sandhikagalih
+[<img src="img/youtube.png" alt="yt" width="30px">](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) Web Programming UNPAS
+
 <br>
-
-Web Programming UNPAS(https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
-<br>
-*[@sandhikagalih](https://www.instagram.com/sandhikagalih/)
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
