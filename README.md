@@ -5,10 +5,10 @@
 CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1. It brings a lot of new features and additions, like rounded corners, shadows, gradients, transitions or animations, as well as new layouts like multi-columns, flexible box or grid layouts.
 
 # Credit 
-Playlist : https://youtu.be/CleFk3BZB3g?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p
-https://youtu.be/Phn2eN6j0pg?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
-https://youtu.be/J0a6YUUAsd4?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
-https://youtu.be/-J372iDFU8Y?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k
+Playlist : https://youtu.be/CleFk3BZB3g?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p <br>
+https://youtu.be/Phn2eN6j0pg?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr <br>
+https://youtu.be/J0a6YUUAsd4?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa <br>
+https://youtu.be/-J372iDFU8Y?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k <br>
 https://youtu.be/qCMLP6GtyBc?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw
 <br>
 
