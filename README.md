@@ -1,11 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="200"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fcss3-logo-png-transparent.png&f=1&nofb=1" width="200"></a></p>
 
 
-# HTML 5
-HTML (stands for Hypertext Markup Language) is a computer language that makes up most web pages and online applications. A hypertext is a text that is used to reference other pieces of text, while a markup language is a series of markings that tells web servers the style and structure of a document. 
+# CSS 3
+CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1. It brings a lot of new features and additions, like rounded corners, shadows, gradients, transitions or animations, as well as new layouts like multi-columns, flexible box or grid layouts.
 
 # Credit 
-Playlist : https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
+Playlist : https://youtu.be/CleFk3BZB3g?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p
+https://youtu.be/Phn2eN6j0pg?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
+https://youtu.be/J0a6YUUAsd4?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
+https://youtu.be/-J372iDFU8Y?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k
+https://youtu.be/qCMLP6GtyBc?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw
 <br>
 
 @sandhikagalih
