@@ -13,8 +13,4 @@ Sumber : https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK
 <br>
 Web Programming UNPAS
 
-[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Finstagram%2Finstagram_PNG9.png&f=1&nofb=1" alt="ig" width="30px">](https://www.instagram.com/sandhikagalih/)
-
-<br>
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogo-logos.com%2Fwp-content%2Fuploads%2F2016%2F11%2FYouTube_icon_logo.png&f=1&nofb=1" alt="yt" width="30px">](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
-
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogo-logos.com%2Fwp-content%2Fuploads%2F2016%2F11%2FYouTube_icon_logo.png&f=1&nofb=1" alt="ig" width="30px">](https://www.instagram.com/sandhikagalih/)
